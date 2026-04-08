@@ -111,8 +111,7 @@ visen/
 │   └── visen/
 │       └── visen.ino          # Main Arduino sketch
 ├── docs/
-│   ├── circuit_diagram.png    # Wiring schematic
-│   └── demo.mp4               # Demo video (optional)
+│   ├── prototype.jpg          # Image of the prototype
 ├── hardware/
 │   └── pin_mapping.md         # Detailed pin reference
 ├── .gitignore
